@@ -139,7 +139,7 @@ For queries or feedback, feel free to reach out:
 #### **Linear Regression**
 
 - **Description**: Predicts continuous values by fitting a linear equation to the input data.
-- **Dataset**: Boston Housing Dataset (`sklearn.datasets`)
+- **Dataset**: Randomly created Dataset for linear regression (`Kaggle Datasets`)
 - **Metrics**: Mean Squared Error (MSE), R-squared.
 
 #### **Logistic Regression**
